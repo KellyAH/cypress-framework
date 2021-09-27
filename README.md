@@ -23,7 +23,6 @@ Note: can also use yarn package manager to install dependencies.
 
 [Steps](NOTES.md) for how this repo was setup from scratch.
  
-# Run Tests
-# TODO use npx so you can maybe do? : `npx cypress open` 
-1. In a Terminal open test runner: `$(npm bin)/cypress open`
+# Run Tests 
+1. In a Terminal open test runner: `npx cypress open` or `$(npm bin)/cypress open`
 2. click on a test and watch it run.
